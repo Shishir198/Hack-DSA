@@ -2,6 +2,8 @@
 
 ## Hack DSA is an open-source repository that collects problems about the data structures and algorithms.
 
+### Solve as many problems as you can and create pull request for every individual problem and 🌟 this repo for future reference.
+
 ## Fork this repository
 Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
 
