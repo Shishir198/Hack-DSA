@@ -13,7 +13,7 @@ Now clone the forked repository to your system. Go to your GitHub account, open 
 ## Create a branch
 Then create a branch on your local repository to solve a problem.
 
- git branch <Branch-name>
+ git branch Branch-name
 
 ## Add & commit 
 Make necessary changes and commit those changes
@@ -26,7 +26,7 @@ Step 2 : git commit -m "Your Commit message with inverted comma"
 ## Push changes to GitHub
 Finally push your local repository to remote repository
 
- git push <BranchName>
+ git push BranchName
 
 ## Compare & Submit a Pull Request
 We're happy to merge valid pull requests to this repository!
